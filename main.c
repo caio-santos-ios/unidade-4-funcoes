@@ -29,20 +29,6 @@ int main() {
     
     int liquitSalary = calcular_salario_liquido(baseSalary, descont);
     printf("Salário líquido: %d \n", liquitSalary);
-
-
-    // int countVetor = 5;
-    // int numbers[countVetor];
-    
-    // for(int i = 0; i < countVetor; i++) {
-    //     int number;
-    //     printf("Digite um novo número inteiro: \n");
-    //     scanf("%d", &number);
-    //     numbers[i] = number;
-    // };
-
-    // int total = sumValues(numbers, countVetor, true);
-    // printf("Total do valores digitados: %d", total);
     
     return 0;
 }
